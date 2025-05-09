@@ -1,0 +1,14 @@
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.Modelos\bin\Debug\net8.0\UTN.Eventos.Modelos.deps.json
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.Modelos\bin\Debug\net8.0\UTN.Eventos.Modelos.dll
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.Modelos\bin\Debug\net8.0\UTN.Eventos.Modelos.pdb
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.Modelos\obj\Debug\net8.0\UTN.Eventos.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.Modelos\obj\Debug\net8.0\UTN.Eventos.Modelos.AssemblyInfoInputs.cache
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.Modelos\obj\Debug\net8.0\UTN.Eventos.Modelos.AssemblyInfo.cs
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.Modelos\obj\Debug\net8.0\UTN.Eventos.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.Modelos\obj\Debug\net8.0\UTN.Eventos.Modelos.dll
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.Modelos\obj\Debug\net8.0\refint\UTN.Eventos.Modelos.dll
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.Modelos\obj\Debug\net8.0\UTN.Eventos.Modelos.pdb
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.Modelos\obj\Debug\net8.0\ref\UTN.Eventos.Modelos.dll
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.Modelos\obj\Debug\net8.0\UTN.Eventos.Modelos.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.Modelos\bin\Debug\net8.0\UTN.Eventos.Modelos.runtimeconfig.json
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.Modelos\obj\Debug\net8.0\UTN.Eventos.Modelos.genruntimeconfig.cache

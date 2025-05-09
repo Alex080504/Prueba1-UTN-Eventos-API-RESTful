@@ -1,0 +1,12 @@
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.APIConsumer\bin\Debug\net8.0\UTN.Eventos.APIConsumer.deps.json
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.APIConsumer\bin\Debug\net8.0\UTN.Eventos.APIConsumer.dll
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.APIConsumer\bin\Debug\net8.0\UTN.Eventos.APIConsumer.pdb
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.APIConsumer\obj\Debug\net8.0\UTN.Eventos.APIConsumer.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.APIConsumer\obj\Debug\net8.0\UTN.Eventos.APIConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.APIConsumer\obj\Debug\net8.0\UTN.Eventos.APIConsumer.AssemblyInfoInputs.cache
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.APIConsumer\obj\Debug\net8.0\UTN.Eventos.APIConsumer.AssemblyInfo.cs
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.APIConsumer\obj\Debug\net8.0\UTN.Eventos.APIConsumer.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.APIConsumer\obj\Debug\net8.0\UTN.Eventos.APIConsumer.dll
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.APIConsumer\obj\Debug\net8.0\refint\UTN.Eventos.APIConsumer.dll
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.APIConsumer\obj\Debug\net8.0\UTN.Eventos.APIConsumer.pdb
+C:\Users\ALEXANDER\Desktop\Proyecto-UTN-Eventos\UTN.Eventos.APIConsumer\obj\Debug\net8.0\ref\UTN.Eventos.APIConsumer.dll

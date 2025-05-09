@@ -1,0 +1,6 @@
+@UTN.Eventos.API_HostAddress = http://localhost:5255
+
+GET {{UTN.Eventos.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
